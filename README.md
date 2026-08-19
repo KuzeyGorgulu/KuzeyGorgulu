@@ -43,10 +43,15 @@
   <br/><br/><br/>
 </div>
 <br/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img src="https://streak-stats.demolab.com?user=KuzeyGorgulu&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<br/>
+
+<hr/>
+
+<div align="center">
+  <br/>
+  <img src="./assets/qzeybei-logo-transparent.png" alt="Qzeybei" width="650"/>
+  <br/>
+</div>
 
 <!---
 NorthString/NorthString is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
